@@ -5,4 +5,8 @@ Heya 👋! Welcome to our organisation of all of my apps/things I develop!
 
 Anyways, enough of that. Lets get started!
 
+<<<<<<< HEAD
 [x] [b](a.com)
+=======
+[x] [b](a.com)
+>>>>>>> refs/remotes/origin/main
